@@ -1,0 +1,31 @@
+﻿LoadShaders.obj : error LNK2001: __imp___glewAttachShader 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewCompileShader 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewCreateProgram 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewCreateShader 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewDeleteShader 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewGetProgramInfoLog 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewGetProgramiv 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewGetShaderInfoLog 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewGetShaderiv 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewLinkProgram 외부 기호를 확인할 수 없습니다.
+LoadShaders.obj : error LNK2001: __imp___glewShaderSource 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2019: __imp_glewInit 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_glewGetErrorString 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_glutInitWindowSize 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_glutInitDisplayMode 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_glutMainLoop 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_glutDisplayFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp___glutInitWithExit 외부 기호(참조 위치: glutInit_ATEXIT_HACK 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp___glutCreateWindowWithExit 외부 기호(참조 위치: glutCreateWindow_ATEXIT_HACK 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2001: __imp___glewBindBuffer 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewBufferData 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewGenBuffers 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewGetAttribLocation 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewUseProgram 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewBindVertexArray 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glewGenVertexArrays 외부 기호를 확인할 수 없습니다.
+..\freeglut\lib\freeglut.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+..\glew\lib\Release\Win32\glew32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Developement\OpenGL\triangles\x64\Debug\triangles.exe : fatal error LNK1120: 28개의 확인할 수 없는 외부 참조입니다.
